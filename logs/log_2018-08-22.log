@@ -1,0 +1,7 @@
+[DEBUG] 2018-08-22 17:57:40,022 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "Hp-PC",
+    "ip": "172.16.112.124",
+    "op": "IAI"
+}
+[WARNING] 2018-08-22 17:58:00,655 :: app.py:194 - sendMsg() | no host found from selection
+[WARNING] 2018-08-22 17:58:22,518 :: app.py:194 - sendMsg() | no host found from selection

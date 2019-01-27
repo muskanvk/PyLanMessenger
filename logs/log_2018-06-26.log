@@ -1,0 +1,225 @@
+[DEBUG] 2018-06-26 11:34:08,657 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 19:36:47,783 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 19:36:56,094 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 19:48:01,996 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 20:00:53,227 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 20:06:35,987 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 20:07:34,961 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 20:08:12,346 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 20:09:11,730 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 20:10:42,283 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[WARNING] 2018-06-26 20:10:50,978 :: app.py:194 - sendMsg() | no host found from selection
+[DEBUG] 2018-06-26 20:11:19,532 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 20:12:19,448 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 20:13:14,407 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.110",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:34:18,374 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:34:23,721 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:34:52,739 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:56:20,265 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[INFO] 2018-06-26 21:58:37,592 :: msg_listener.py:71 - monitor_messages() | received message: {
+    "host": "ns",
+    "ip": "192.168.0.5",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:58:37,594 :: app.py:139 - handle_messages() | UI handling message: {
+    "host": "ns",
+    "ip": "192.168.0.5",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:58:37,595 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "MTI"
+}
+[INFO] 2018-06-26 21:58:39,167 :: msg_listener.py:71 - monitor_messages() | received message: {
+    "host": "ns",
+    "ip": "192.168.0.5",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:58:39,168 :: app.py:139 - handle_messages() | UI handling message: {
+    "host": "ns",
+    "ip": "192.168.0.5",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:58:39,170 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "MTI"
+}
+[INFO] 2018-06-26 21:58:41,600 :: msg_listener.py:71 - monitor_messages() | received message: {
+    "host": "ns",
+    "ip": "192.168.0.5",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:58:41,601 :: app.py:139 - handle_messages() | UI handling message: {
+    "host": "ns",
+    "ip": "192.168.0.5",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 21:58:41,602 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "MTI"
+}
+[DEBUG] 2018-06-26 22:03:32,683 :: app.py:227 - on_buddy_selection_changed() | You selected buddy is: "ns"
+[DEBUG] 2018-06-26 22:04:01,460 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:04:03,112 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:05:45,536 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:06:57,817 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:07:02,237 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:07:05,019 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:07:06,392 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:07:07,142 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:07:19,351 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:07:21,494 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[INFO] 2018-06-26 22:07:38,560 :: msg_listener.py:71 - monitor_messages() | received message: {
+    "host": "ns",
+    "ip": "192.168.1.4",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:07:38,562 :: app.py:139 - handle_messages() | UI handling message: {
+    "host": "ns",
+    "ip": "192.168.1.4",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-26 22:07:38,565 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "MTI"
+}
+[DEBUG] 2018-06-26 22:07:46,501 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[INFO] 2018-06-26 22:07:46,508 :: msg_listener.py:71 - monitor_messages() | received message: {
+    "host": "ns",
+    "ip": "192.168.1.4",
+    "op": "MTI"
+}
+[DEBUG] 2018-06-26 22:07:46,656 :: app.py:139 - handle_messages() | UI handling message: {
+    "host": "ns",
+    "ip": "192.168.1.4",
+    "op": "MTI"
+}
+[DEBUG] 2018-06-26 22:07:46,793 :: app.py:227 - on_buddy_selection_changed() | You selected buddy is: "ns"
+[INFO] 2018-06-26 22:08:21,369 :: msg_listener.py:71 - monitor_messages() | received message: {
+    "host": "ns",
+    "ip": "192.168.1.4",
+    "msg": "how are you",
+    "op": "TCM"
+}
+[DEBUG] 2018-06-26 22:08:21,370 :: app.py:139 - handle_messages() | UI handling message: {
+    "host": "ns",
+    "ip": "192.168.1.4",
+    "msg": "how are you",
+    "op": "TCM"
+}

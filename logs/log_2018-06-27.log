@@ -1,0 +1,41 @@
+[DEBUG] 2018-06-27 01:44:26,746 :: q.py:28 - run() | Putting 8 : 1 items in queue
+[DEBUG] 2018-06-27 01:44:26,917 :: q.py:28 - run() | Putting 4 : 2 items in queue
+[DEBUG] 2018-06-27 01:44:27,644 :: q.py:28 - run() | Putting 8 : 3 items in queue
+[DEBUG] 2018-06-27 01:44:28,513 :: q.py:28 - run() | Putting 2 : 4 items in queue
+[DEBUG] 2018-06-27 01:44:28,749 :: q.py:45 - run() | Getting 8 : 3 items in queue
+[DEBUG] 2018-06-27 01:44:29,063 :: q.py:45 - run() | Getting 4 : 2 items in queue
+[DEBUG] 2018-06-27 01:44:29,192 :: q.py:28 - run() | Putting 5 : 3 items in queue
+[DEBUG] 2018-06-27 01:44:29,716 :: q.py:45 - run() | Getting 8 : 2 items in queue
+[DEBUG] 2018-06-27 01:44:29,742 :: q.py:45 - run() | Getting 2 : 1 items in queue
+[DEBUG] 2018-06-27 01:44:29,907 :: q.py:28 - run() | Putting 5 : 2 items in queue
+[DEBUG] 2018-06-27 01:44:30,219 :: q.py:28 - run() | Putting 8 : 3 items in queue
+[DEBUG] 2018-06-27 01:44:30,367 :: q.py:28 - run() | Putting 9 : 4 items in queue
+[DEBUG] 2018-06-27 01:44:30,487 :: q.py:45 - run() | Getting 5 : 3 items in queue
+[DEBUG] 2018-06-27 01:44:30,824 :: q.py:28 - run() | Putting 9 : 4 items in queue
+[DEBUG] 2018-06-27 01:44:31,261 :: q.py:28 - run() | Putting 3 : 5 items in queue
+[DEBUG] 2018-06-27 01:44:31,333 :: q.py:45 - run() | Getting 5 : 4 items in queue
+[DEBUG] 2018-06-27 01:44:31,920 :: q.py:28 - run() | Putting 10 : 5 items in queue
+[DEBUG] 2018-06-27 01:44:31,966 :: q.py:45 - run() | Getting 8 : 4 items in queue
+[DEBUG] 2018-06-27 01:44:32,472 :: q.py:45 - run() | Getting 9 : 3 items in queue
+[DEBUG] 2018-06-27 01:44:32,887 :: q.py:28 - run() | Putting 9 : 4 items in queue
+[DEBUG] 2018-06-27 01:44:32,892 :: q.py:45 - run() | Getting 9 : 3 items in queue
+[DEBUG] 2018-06-27 01:44:33,141 :: q.py:45 - run() | Getting 3 : 2 items in queue
+[DEBUG] 2018-06-27 01:44:33,538 :: q.py:45 - run() | Getting 10 : 1 items in queue
+[DEBUG] 2018-06-27 01:44:33,606 :: q.py:28 - run() | Putting 5 : 2 items in queue
+[DEBUG] 2018-06-27 01:44:33,831 :: q.py:45 - run() | Getting 9 : 1 items in queue
+[DEBUG] 2018-06-27 01:44:34,385 :: q.py:45 - run() | Getting 5 : 0 items in queue
+[DEBUG] 2018-06-27 13:41:40,901 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.11.9",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-27 14:17:30,405 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.11.9",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-27 14:22:05,913 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.11.9",
+    "op": "IAI"
+}

@@ -1,0 +1,385 @@
+[DEBUG] 2018-06-24 20:19:58,262 :: file_receiver.py:56 - run() | Waiting for file sender...
+[DEBUG] 2018-06-24 20:20:03,636 :: file_sender.py:54 - run() | total file size = 470353
+[DEBUG] 2018-06-24 20:20:03,636 :: file_receiver.py:59 - run() | File sender connected
+[DEBUG] 2018-06-24 20:20:03,638 :: file_sender.py:63 - run() | Sent: 8192
+[DEBUG] 2018-06-24 20:20:03,638 :: file_sender.py:67 - run() | percentage: 1.741671
+[DEBUG] 2018-06-24 20:20:03,639 :: file_sender.py:63 - run() | Sent: 12288
+[DEBUG] 2018-06-24 20:20:03,640 :: file_sender.py:67 - run() | percentage: 2.612506
+[DEBUG] 2018-06-24 20:20:03,641 :: file_sender.py:63 - run() | Sent: 16384
+[DEBUG] 2018-06-24 20:20:03,641 :: file_sender.py:67 - run() | percentage: 3.483341
+[DEBUG] 2018-06-24 20:20:03,642 :: file_sender.py:63 - run() | Sent: 20480
+[DEBUG] 2018-06-24 20:20:03,643 :: file_sender.py:67 - run() | percentage: 4.354177
+[DEBUG] 2018-06-24 20:20:03,644 :: file_sender.py:63 - run() | Sent: 24576
+[DEBUG] 2018-06-24 20:20:03,645 :: file_sender.py:67 - run() | percentage: 5.225012
+[DEBUG] 2018-06-24 20:20:03,645 :: file_sender.py:63 - run() | Sent: 28672
+[DEBUG] 2018-06-24 20:20:03,646 :: file_sender.py:67 - run() | percentage: 6.095847
+[DEBUG] 2018-06-24 20:20:03,647 :: file_sender.py:63 - run() | Sent: 32768
+[DEBUG] 2018-06-24 20:20:03,647 :: file_sender.py:67 - run() | percentage: 6.966682
+[DEBUG] 2018-06-24 20:20:03,648 :: file_sender.py:63 - run() | Sent: 36864
+[DEBUG] 2018-06-24 20:20:03,649 :: file_sender.py:67 - run() | percentage: 7.837518
+[DEBUG] 2018-06-24 20:20:03,650 :: file_sender.py:63 - run() | Sent: 40960
+[DEBUG] 2018-06-24 20:20:03,650 :: file_sender.py:67 - run() | percentage: 8.708353
+[DEBUG] 2018-06-24 20:20:03,651 :: file_sender.py:63 - run() | Sent: 45056
+[DEBUG] 2018-06-24 20:20:03,652 :: file_sender.py:67 - run() | percentage: 9.579188
+[DEBUG] 2018-06-24 20:20:03,654 :: file_sender.py:63 - run() | Sent: 49152
+[DEBUG] 2018-06-24 20:20:03,656 :: file_sender.py:67 - run() | percentage: 10.450024
+[DEBUG] 2018-06-24 20:20:03,656 :: file_sender.py:63 - run() | Sent: 53248
+[DEBUG] 2018-06-24 20:20:03,657 :: file_sender.py:67 - run() | percentage: 11.320859
+[DEBUG] 2018-06-24 20:20:03,659 :: file_sender.py:63 - run() | Sent: 57344
+[DEBUG] 2018-06-24 20:20:03,660 :: file_sender.py:67 - run() | percentage: 12.191694
+[DEBUG] 2018-06-24 20:20:03,660 :: file_sender.py:63 - run() | Sent: 61440
+[DEBUG] 2018-06-24 20:20:03,661 :: file_sender.py:67 - run() | percentage: 13.062530
+[DEBUG] 2018-06-24 20:20:03,661 :: file_sender.py:63 - run() | Sent: 65536
+[DEBUG] 2018-06-24 20:20:03,662 :: file_sender.py:67 - run() | percentage: 13.933365
+[DEBUG] 2018-06-24 20:20:03,663 :: file_sender.py:63 - run() | Sent: 69632
+[DEBUG] 2018-06-24 20:20:03,663 :: file_sender.py:67 - run() | percentage: 14.804200
+[DEBUG] 2018-06-24 20:20:03,664 :: file_sender.py:63 - run() | Sent: 73728
+[DEBUG] 2018-06-24 20:20:03,665 :: file_sender.py:67 - run() | percentage: 15.675036
+[DEBUG] 2018-06-24 20:20:03,665 :: file_sender.py:63 - run() | Sent: 77824
+[DEBUG] 2018-06-24 20:20:03,666 :: file_sender.py:67 - run() | percentage: 16.545871
+[DEBUG] 2018-06-24 20:20:03,667 :: file_sender.py:63 - run() | Sent: 81920
+[DEBUG] 2018-06-24 20:20:03,668 :: file_sender.py:67 - run() | percentage: 17.416706
+[DEBUG] 2018-06-24 20:20:03,669 :: file_sender.py:63 - run() | Sent: 86016
+[DEBUG] 2018-06-24 20:20:03,670 :: file_sender.py:67 - run() | percentage: 18.287541
+[DEBUG] 2018-06-24 20:20:03,671 :: file_sender.py:63 - run() | Sent: 90112
+[DEBUG] 2018-06-24 20:20:03,671 :: file_sender.py:67 - run() | percentage: 19.158377
+[DEBUG] 2018-06-24 20:20:03,672 :: file_sender.py:63 - run() | Sent: 94208
+[DEBUG] 2018-06-24 20:20:03,673 :: file_sender.py:67 - run() | percentage: 20.029212
+[DEBUG] 2018-06-24 20:20:03,674 :: file_sender.py:63 - run() | Sent: 98304
+[DEBUG] 2018-06-24 20:20:03,675 :: file_sender.py:67 - run() | percentage: 20.900047
+[DEBUG] 2018-06-24 20:20:03,675 :: file_sender.py:63 - run() | Sent: 102400
+[DEBUG] 2018-06-24 20:20:03,676 :: file_sender.py:67 - run() | percentage: 21.770883
+[DEBUG] 2018-06-24 20:20:03,677 :: file_sender.py:63 - run() | Sent: 106496
+[DEBUG] 2018-06-24 20:20:03,677 :: file_sender.py:67 - run() | percentage: 22.641718
+[DEBUG] 2018-06-24 20:20:03,678 :: file_sender.py:63 - run() | Sent: 110592
+[DEBUG] 2018-06-24 20:20:03,679 :: file_sender.py:67 - run() | percentage: 23.512553
+[DEBUG] 2018-06-24 20:20:03,680 :: file_sender.py:63 - run() | Sent: 114688
+[DEBUG] 2018-06-24 20:20:03,681 :: file_sender.py:67 - run() | percentage: 24.383389
+[DEBUG] 2018-06-24 20:20:03,681 :: file_sender.py:63 - run() | Sent: 118784
+[DEBUG] 2018-06-24 20:20:03,682 :: file_sender.py:67 - run() | percentage: 25.254224
+[DEBUG] 2018-06-24 20:20:03,683 :: file_sender.py:63 - run() | Sent: 122880
+[DEBUG] 2018-06-24 20:20:03,683 :: file_sender.py:67 - run() | percentage: 26.125059
+[DEBUG] 2018-06-24 20:20:03,684 :: file_sender.py:63 - run() | Sent: 126976
+[DEBUG] 2018-06-24 20:20:03,684 :: file_sender.py:67 - run() | percentage: 26.995895
+[DEBUG] 2018-06-24 20:20:03,685 :: file_sender.py:63 - run() | Sent: 131072
+[DEBUG] 2018-06-24 20:20:03,686 :: file_sender.py:67 - run() | percentage: 27.866730
+[DEBUG] 2018-06-24 20:20:03,686 :: file_sender.py:63 - run() | Sent: 135168
+[DEBUG] 2018-06-24 20:20:03,687 :: file_sender.py:67 - run() | percentage: 28.737565
+[DEBUG] 2018-06-24 20:20:03,687 :: file_sender.py:63 - run() | Sent: 139264
+[DEBUG] 2018-06-24 20:20:03,688 :: file_sender.py:67 - run() | percentage: 29.608400
+[DEBUG] 2018-06-24 20:20:03,689 :: file_sender.py:63 - run() | Sent: 143360
+[DEBUG] 2018-06-24 20:20:03,689 :: file_sender.py:67 - run() | percentage: 30.479236
+[DEBUG] 2018-06-24 20:20:03,690 :: file_sender.py:63 - run() | Sent: 147456
+[DEBUG] 2018-06-24 20:20:03,690 :: file_sender.py:67 - run() | percentage: 31.350071
+[DEBUG] 2018-06-24 20:20:03,691 :: file_sender.py:63 - run() | Sent: 151552
+[DEBUG] 2018-06-24 20:20:03,692 :: file_sender.py:67 - run() | percentage: 32.220906
+[DEBUG] 2018-06-24 20:20:03,693 :: file_sender.py:63 - run() | Sent: 155648
+[DEBUG] 2018-06-24 20:20:03,694 :: file_sender.py:67 - run() | percentage: 33.091742
+[DEBUG] 2018-06-24 20:20:03,695 :: file_sender.py:63 - run() | Sent: 159744
+[DEBUG] 2018-06-24 20:20:03,696 :: file_sender.py:67 - run() | percentage: 33.962577
+[DEBUG] 2018-06-24 20:20:03,696 :: file_sender.py:63 - run() | Sent: 163840
+[DEBUG] 2018-06-24 20:20:03,697 :: file_sender.py:67 - run() | percentage: 34.833412
+[DEBUG] 2018-06-24 20:20:03,698 :: file_sender.py:63 - run() | Sent: 167936
+[DEBUG] 2018-06-24 20:20:03,699 :: file_sender.py:67 - run() | percentage: 35.704248
+[DEBUG] 2018-06-24 20:20:03,699 :: file_sender.py:63 - run() | Sent: 172032
+[DEBUG] 2018-06-24 20:20:03,700 :: file_sender.py:67 - run() | percentage: 36.575083
+[DEBUG] 2018-06-24 20:20:03,701 :: file_sender.py:63 - run() | Sent: 176128
+[DEBUG] 2018-06-24 20:20:03,701 :: file_sender.py:67 - run() | percentage: 37.445918
+[DEBUG] 2018-06-24 20:20:03,702 :: file_sender.py:63 - run() | Sent: 180224
+[DEBUG] 2018-06-24 20:20:03,703 :: file_sender.py:67 - run() | percentage: 38.316754
+[DEBUG] 2018-06-24 20:20:03,703 :: file_sender.py:63 - run() | Sent: 184320
+[DEBUG] 2018-06-24 20:20:03,704 :: file_sender.py:67 - run() | percentage: 39.187589
+[DEBUG] 2018-06-24 20:20:03,704 :: file_sender.py:63 - run() | Sent: 188416
+[DEBUG] 2018-06-24 20:20:03,705 :: file_sender.py:67 - run() | percentage: 40.058424
+[DEBUG] 2018-06-24 20:20:03,706 :: file_sender.py:63 - run() | Sent: 192512
+[DEBUG] 2018-06-24 20:20:03,706 :: file_sender.py:67 - run() | percentage: 40.929260
+[DEBUG] 2018-06-24 20:20:03,707 :: file_sender.py:63 - run() | Sent: 196608
+[DEBUG] 2018-06-24 20:20:03,708 :: file_sender.py:67 - run() | percentage: 41.800095
+[DEBUG] 2018-06-24 20:20:03,708 :: file_sender.py:63 - run() | Sent: 200704
+[DEBUG] 2018-06-24 20:20:03,709 :: file_sender.py:67 - run() | percentage: 42.670930
+[DEBUG] 2018-06-24 20:20:03,710 :: file_sender.py:63 - run() | Sent: 204800
+[DEBUG] 2018-06-24 20:20:03,710 :: file_sender.py:67 - run() | percentage: 43.541765
+[DEBUG] 2018-06-24 20:20:03,711 :: file_sender.py:63 - run() | Sent: 208896
+[DEBUG] 2018-06-24 20:20:03,712 :: file_sender.py:67 - run() | percentage: 44.412601
+[DEBUG] 2018-06-24 20:20:03,713 :: file_sender.py:63 - run() | Sent: 212992
+[DEBUG] 2018-06-24 20:20:03,713 :: file_sender.py:67 - run() | percentage: 45.283436
+[DEBUG] 2018-06-24 20:20:03,714 :: file_sender.py:63 - run() | Sent: 217088
+[DEBUG] 2018-06-24 20:20:03,715 :: file_sender.py:67 - run() | percentage: 46.154271
+[DEBUG] 2018-06-24 20:20:03,716 :: file_sender.py:63 - run() | Sent: 221184
+[DEBUG] 2018-06-24 20:20:03,716 :: file_sender.py:67 - run() | percentage: 47.025107
+[DEBUG] 2018-06-24 20:20:03,717 :: file_sender.py:63 - run() | Sent: 225280
+[DEBUG] 2018-06-24 20:20:03,718 :: file_sender.py:67 - run() | percentage: 47.895942
+[DEBUG] 2018-06-24 20:20:03,719 :: file_sender.py:63 - run() | Sent: 229376
+[DEBUG] 2018-06-24 20:20:03,719 :: file_sender.py:67 - run() | percentage: 48.766777
+[DEBUG] 2018-06-24 20:20:03,721 :: file_sender.py:63 - run() | Sent: 233472
+[DEBUG] 2018-06-24 20:20:03,722 :: file_sender.py:67 - run() | percentage: 49.637613
+[DEBUG] 2018-06-24 20:20:03,723 :: file_sender.py:63 - run() | Sent: 237568
+[DEBUG] 2018-06-24 20:20:03,723 :: file_sender.py:67 - run() | percentage: 50.508448
+[DEBUG] 2018-06-24 20:20:03,725 :: file_sender.py:63 - run() | Sent: 241664
+[DEBUG] 2018-06-24 20:20:03,725 :: file_sender.py:67 - run() | percentage: 51.379283
+[DEBUG] 2018-06-24 20:20:03,726 :: file_sender.py:63 - run() | Sent: 245760
+[DEBUG] 2018-06-24 20:20:03,727 :: file_sender.py:67 - run() | percentage: 52.250119
+[DEBUG] 2018-06-24 20:20:03,728 :: file_sender.py:63 - run() | Sent: 249856
+[DEBUG] 2018-06-24 20:20:03,728 :: file_sender.py:67 - run() | percentage: 53.120954
+[DEBUG] 2018-06-24 20:20:03,729 :: file_sender.py:63 - run() | Sent: 253952
+[DEBUG] 2018-06-24 20:20:03,729 :: file_sender.py:67 - run() | percentage: 53.991789
+[DEBUG] 2018-06-24 20:20:03,730 :: file_sender.py:63 - run() | Sent: 258048
+[DEBUG] 2018-06-24 20:20:03,731 :: file_sender.py:67 - run() | percentage: 54.862624
+[DEBUG] 2018-06-24 20:20:03,731 :: file_sender.py:63 - run() | Sent: 262144
+[DEBUG] 2018-06-24 20:20:03,732 :: file_sender.py:67 - run() | percentage: 55.733460
+[DEBUG] 2018-06-24 20:20:03,733 :: file_sender.py:63 - run() | Sent: 266240
+[DEBUG] 2018-06-24 20:20:03,733 :: file_sender.py:67 - run() | percentage: 56.604295
+[DEBUG] 2018-06-24 20:20:03,734 :: file_sender.py:63 - run() | Sent: 270336
+[DEBUG] 2018-06-24 20:20:03,734 :: file_sender.py:67 - run() | percentage: 57.475130
+[DEBUG] 2018-06-24 20:20:03,735 :: file_sender.py:63 - run() | Sent: 274432
+[DEBUG] 2018-06-24 20:20:03,735 :: file_sender.py:67 - run() | percentage: 58.345966
+[DEBUG] 2018-06-24 20:20:03,736 :: file_sender.py:63 - run() | Sent: 278528
+[DEBUG] 2018-06-24 20:20:03,736 :: file_sender.py:67 - run() | percentage: 59.216801
+[DEBUG] 2018-06-24 20:20:03,737 :: file_sender.py:63 - run() | Sent: 282624
+[DEBUG] 2018-06-24 20:20:03,737 :: file_sender.py:67 - run() | percentage: 60.087636
+[DEBUG] 2018-06-24 20:20:03,738 :: file_sender.py:63 - run() | Sent: 286720
+[DEBUG] 2018-06-24 20:20:03,738 :: file_sender.py:67 - run() | percentage: 60.958472
+[DEBUG] 2018-06-24 20:20:03,739 :: file_sender.py:63 - run() | Sent: 290816
+[DEBUG] 2018-06-24 20:20:03,739 :: file_sender.py:67 - run() | percentage: 61.829307
+[DEBUG] 2018-06-24 20:20:03,740 :: file_sender.py:63 - run() | Sent: 294912
+[DEBUG] 2018-06-24 20:20:03,740 :: file_sender.py:67 - run() | percentage: 62.700142
+[DEBUG] 2018-06-24 20:20:03,741 :: file_sender.py:63 - run() | Sent: 299008
+[DEBUG] 2018-06-24 20:20:03,742 :: file_sender.py:67 - run() | percentage: 63.570978
+[DEBUG] 2018-06-24 20:20:03,742 :: file_sender.py:63 - run() | Sent: 303104
+[DEBUG] 2018-06-24 20:20:03,743 :: file_sender.py:67 - run() | percentage: 64.441813
+[DEBUG] 2018-06-24 20:20:03,744 :: file_sender.py:63 - run() | Sent: 307200
+[DEBUG] 2018-06-24 20:20:03,744 :: file_sender.py:67 - run() | percentage: 65.312648
+[DEBUG] 2018-06-24 20:20:03,745 :: file_sender.py:63 - run() | Sent: 311296
+[DEBUG] 2018-06-24 20:20:03,746 :: file_sender.py:67 - run() | percentage: 66.183483
+[DEBUG] 2018-06-24 20:20:03,747 :: file_sender.py:63 - run() | Sent: 315392
+[DEBUG] 2018-06-24 20:20:03,748 :: file_sender.py:67 - run() | percentage: 67.054319
+[DEBUG] 2018-06-24 20:20:03,748 :: file_sender.py:63 - run() | Sent: 319488
+[DEBUG] 2018-06-24 20:20:03,749 :: file_sender.py:67 - run() | percentage: 67.925154
+[DEBUG] 2018-06-24 20:20:03,751 :: file_sender.py:63 - run() | Sent: 323584
+[DEBUG] 2018-06-24 20:20:03,751 :: file_sender.py:67 - run() | percentage: 68.795989
+[DEBUG] 2018-06-24 20:20:03,753 :: file_sender.py:63 - run() | Sent: 327680
+[DEBUG] 2018-06-24 20:20:03,754 :: file_sender.py:67 - run() | percentage: 69.666825
+[DEBUG] 2018-06-24 20:20:03,755 :: file_sender.py:63 - run() | Sent: 331776
+[DEBUG] 2018-06-24 20:20:03,756 :: file_sender.py:67 - run() | percentage: 70.537660
+[DEBUG] 2018-06-24 20:20:03,757 :: file_sender.py:63 - run() | Sent: 335872
+[DEBUG] 2018-06-24 20:20:03,758 :: file_sender.py:67 - run() | percentage: 71.408495
+[DEBUG] 2018-06-24 20:20:03,759 :: file_sender.py:63 - run() | Sent: 339968
+[DEBUG] 2018-06-24 20:20:03,760 :: file_sender.py:67 - run() | percentage: 72.279331
+[DEBUG] 2018-06-24 20:20:03,761 :: file_sender.py:63 - run() | Sent: 344064
+[DEBUG] 2018-06-24 20:20:03,762 :: file_sender.py:67 - run() | percentage: 73.150166
+[DEBUG] 2018-06-24 20:20:03,763 :: file_sender.py:63 - run() | Sent: 348160
+[DEBUG] 2018-06-24 20:20:03,765 :: file_sender.py:67 - run() | percentage: 74.021001
+[DEBUG] 2018-06-24 20:20:03,767 :: file_sender.py:63 - run() | Sent: 352256
+[DEBUG] 2018-06-24 20:20:03,774 :: file_sender.py:67 - run() | percentage: 74.891837
+[DEBUG] 2018-06-24 20:20:03,775 :: file_sender.py:63 - run() | Sent: 356352
+[DEBUG] 2018-06-24 20:20:03,776 :: file_sender.py:67 - run() | percentage: 75.762672
+[DEBUG] 2018-06-24 20:20:03,777 :: file_sender.py:63 - run() | Sent: 360448
+[DEBUG] 2018-06-24 20:20:03,778 :: file_sender.py:67 - run() | percentage: 76.633507
+[DEBUG] 2018-06-24 20:20:03,779 :: file_sender.py:63 - run() | Sent: 364544
+[DEBUG] 2018-06-24 20:20:03,779 :: file_sender.py:67 - run() | percentage: 77.504342
+[DEBUG] 2018-06-24 20:20:03,780 :: file_sender.py:63 - run() | Sent: 368640
+[DEBUG] 2018-06-24 20:20:03,781 :: file_sender.py:67 - run() | percentage: 78.375178
+[DEBUG] 2018-06-24 20:20:03,782 :: file_sender.py:63 - run() | Sent: 372736
+[DEBUG] 2018-06-24 20:20:03,786 :: file_sender.py:67 - run() | percentage: 79.246013
+[DEBUG] 2018-06-24 20:20:03,787 :: file_sender.py:63 - run() | Sent: 376832
+[DEBUG] 2018-06-24 20:20:03,788 :: file_sender.py:67 - run() | percentage: 80.116848
+[DEBUG] 2018-06-24 20:20:03,795 :: file_sender.py:63 - run() | Sent: 380928
+[DEBUG] 2018-06-24 20:20:03,796 :: file_sender.py:67 - run() | percentage: 80.987684
+[DEBUG] 2018-06-24 20:20:03,797 :: file_sender.py:63 - run() | Sent: 385024
+[DEBUG] 2018-06-24 20:20:03,799 :: file_sender.py:67 - run() | percentage: 81.858519
+[DEBUG] 2018-06-24 20:20:03,800 :: file_sender.py:63 - run() | Sent: 389120
+[DEBUG] 2018-06-24 20:20:03,801 :: file_sender.py:67 - run() | percentage: 82.729354
+[DEBUG] 2018-06-24 20:20:03,802 :: file_sender.py:63 - run() | Sent: 393216
+[DEBUG] 2018-06-24 20:20:03,803 :: file_sender.py:67 - run() | percentage: 83.600190
+[DEBUG] 2018-06-24 20:20:03,804 :: file_sender.py:63 - run() | Sent: 397312
+[DEBUG] 2018-06-24 20:20:03,805 :: file_sender.py:67 - run() | percentage: 84.471025
+[DEBUG] 2018-06-24 20:20:03,807 :: file_sender.py:63 - run() | Sent: 401408
+[DEBUG] 2018-06-24 20:20:03,808 :: file_sender.py:67 - run() | percentage: 85.341860
+[DEBUG] 2018-06-24 20:20:03,808 :: file_sender.py:63 - run() | Sent: 405504
+[DEBUG] 2018-06-24 20:20:03,809 :: file_sender.py:67 - run() | percentage: 86.212696
+[DEBUG] 2018-06-24 20:20:03,809 :: file_sender.py:63 - run() | Sent: 409600
+[DEBUG] 2018-06-24 20:20:03,810 :: file_sender.py:67 - run() | percentage: 87.083531
+[DEBUG] 2018-06-24 20:20:03,811 :: file_sender.py:63 - run() | Sent: 413696
+[DEBUG] 2018-06-24 20:20:03,811 :: file_sender.py:67 - run() | percentage: 87.954366
+[DEBUG] 2018-06-24 20:20:03,812 :: file_sender.py:63 - run() | Sent: 417792
+[DEBUG] 2018-06-24 20:20:03,812 :: file_sender.py:67 - run() | percentage: 88.825201
+[DEBUG] 2018-06-24 20:20:03,813 :: file_sender.py:63 - run() | Sent: 421888
+[DEBUG] 2018-06-24 20:20:03,814 :: file_sender.py:67 - run() | percentage: 89.696037
+[DEBUG] 2018-06-24 20:20:03,815 :: file_sender.py:63 - run() | Sent: 425984
+[DEBUG] 2018-06-24 20:20:03,816 :: file_sender.py:67 - run() | percentage: 90.566872
+[DEBUG] 2018-06-24 20:20:03,818 :: file_sender.py:63 - run() | Sent: 430080
+[DEBUG] 2018-06-24 20:20:03,819 :: file_sender.py:67 - run() | percentage: 91.437707
+[DEBUG] 2018-06-24 20:20:03,819 :: file_sender.py:63 - run() | Sent: 434176
+[DEBUG] 2018-06-24 20:20:03,820 :: file_sender.py:67 - run() | percentage: 92.308543
+[DEBUG] 2018-06-24 20:20:03,820 :: file_sender.py:63 - run() | Sent: 438272
+[DEBUG] 2018-06-24 20:20:03,820 :: file_sender.py:67 - run() | percentage: 93.179378
+[DEBUG] 2018-06-24 20:20:03,820 :: file_sender.py:63 - run() | Sent: 442368
+[DEBUG] 2018-06-24 20:20:03,820 :: file_sender.py:67 - run() | percentage: 94.050213
+[DEBUG] 2018-06-24 20:20:03,821 :: file_sender.py:63 - run() | Sent: 446464
+[DEBUG] 2018-06-24 20:20:03,821 :: file_sender.py:67 - run() | percentage: 94.921049
+[DEBUG] 2018-06-24 20:20:03,822 :: file_sender.py:63 - run() | Sent: 450560
+[DEBUG] 2018-06-24 20:20:03,822 :: file_sender.py:67 - run() | percentage: 95.791884
+[DEBUG] 2018-06-24 20:20:03,822 :: file_sender.py:63 - run() | Sent: 454656
+[DEBUG] 2018-06-24 20:20:03,822 :: file_sender.py:67 - run() | percentage: 96.662719
+[DEBUG] 2018-06-24 20:20:03,823 :: file_sender.py:63 - run() | Sent: 458752
+[DEBUG] 2018-06-24 20:20:03,824 :: file_sender.py:67 - run() | percentage: 97.533555
+[DEBUG] 2018-06-24 20:20:03,825 :: file_sender.py:63 - run() | Sent: 462848
+[DEBUG] 2018-06-24 20:20:03,825 :: file_sender.py:67 - run() | percentage: 98.404390
+[DEBUG] 2018-06-24 20:20:03,826 :: file_sender.py:63 - run() | Sent: 466944
+[DEBUG] 2018-06-24 20:20:03,827 :: file_sender.py:67 - run() | percentage: 99.275225
+[DEBUG] 2018-06-24 20:20:03,827 :: file_sender.py:63 - run() | Sent: 471040
+[DEBUG] 2018-06-24 20:20:03,828 :: file_sender.py:67 - run() | percentage: 100.146061
+[DEBUG] 2018-06-24 20:20:03,828 :: file_sender.py:63 - run() | Sent: 474449
+[DEBUG] 2018-06-24 20:20:03,828 :: file_sender.py:67 - run() | percentage: 100.870835
+[INFO] 2018-06-24 20:20:03,829 :: file_sender.py:73 - run() | File '/home/neo/Desktop/p.jpg' sent successfully
+[INFO] 2018-06-24 20:20:03,830 :: file_receiver.py:73 - run() | File 'd.jpg' received successfully
+[DEBUG] 2018-06-24 20:28:45,871 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:29:46,834 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:30:00,948 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:30:17,533 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:30:29,358 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:31:27,392 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:32:03,844 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:34:14,362 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:40:31,417 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 20:40:42,432 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:04:02,607 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:09:36,313 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:11:12,162 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:11:22,896 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:12:12,146 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:13:45,147 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:22:17,092 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:22:41,272 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:23:15,043 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:26:08,441 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:28:21,464 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:29:03,221 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:31:33,713 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:32:23,355 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:33:05,205 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:35:05,396 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:39:41,835 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:39:53,627 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:40:30,300 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
+[DEBUG] 2018-06-24 21:41:26,116 :: msg_sender.py:62 - send_broadcast_message() | send broadcast: {
+    "host": "neo",
+    "ip": "192.168.1.2",
+    "op": "IAI"
+}
